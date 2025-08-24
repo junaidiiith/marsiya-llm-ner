@@ -8,7 +8,15 @@ This application helps researchers, particularly in digital humanities, to ident
 
 See the application in action! Watch our demo video showcasing the key features and user interface:
 
-https://github.com/junaidiiith/marsiya-llm-ner/blob/main/demo/marsiya-ner-dashboard-demo.mov
+<video width="100%" controls>
+  <source src="demo/marsiya-ner-dashboard-demo.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
+**Alternative Viewing Options:**
+
+- [Download Video](demo/marsiya-ner-dashboard-demo.mov) - Right-click and "Save as" for offline viewing
+- [View on GitHub](https://github.com/junaidiiith/marsiya-llm-ner/blob/main/demo/marsiya-ner-dashboard-demo.mov) - Watch directly on GitHub
 
 **Video Details:**
 
@@ -252,85 +260,6 @@ The application recognizes these entity categories:
 - **Team validation**: Have multiple researchers review important texts
 - **Update annotations**: Refine annotations based on new insights
 
-### For Project Managers
-
-#### Workflow Design
-
-- **Define standards**: Establish annotation guidelines
-- **Assign roles**: Distribute verification tasks
-- **Set milestones**: Create timeline for completion
-- **Monitor progress**: Track verification rates and quality
-
-#### Team Coordination
-
-- **Regular meetings**: Schedule review sessions
-- **Training**: Provide training on annotation standards
-- **Feedback loops**: Establish processes for questions and clarifications
-- **Documentation**: Maintain project documentation and guidelines
-
-## Troubleshooting
-
-### Common Issues
-
-#### Processing Problems
-
-- **Slow processing**: Check file size and chunk settings
-- **API errors**: Verify AI model configuration
-- **Memory issues**: Reduce chunk size for large documents
-- **Connection problems**: Check internet connectivity
-
-#### Entity Issues
-
-- **Missing entities**: Lower confidence threshold
-- **Wrong entity types**: Use manual correction tools
-- **Overlapping entities**: Review entity boundaries
-- **Inconsistent tagging**: Follow annotation guidelines
-
-#### Interface Problems
-
-- **Display issues**: Check browser compatibility
-- **Performance**: Clear browser cache and cookies
-- **Login problems**: Reset password or contact support
-- **Data loss**: Check auto-save settings
-
-### Getting Help
-
-#### Support Resources
-
-- **Help documentation**: Access built-in help system
-- **Video tutorials**: Watch step-by-step guides
-- **FAQ section**: Find answers to common questions
-- **Contact support**: Reach out to technical team
-
-#### Community
-
-- **User forums**: Connect with other researchers
-- **Training sessions**: Attend online workshops
-- **Best practices**: Share experiences and tips
-- **Feature requests**: Suggest improvements
-
-## Tips and Tricks
-
-### Efficiency Tips
-
-- **Use keyboard shortcuts**: Learn navigation shortcuts for faster work
-- **Batch operations**: Process multiple entities together
-- **Template projects**: Create project templates for similar research
-- **Auto-save**: Enable auto-save to prevent data loss
-
-### Quality Tips
-
-- **Regular breaks**: Take breaks to maintain focus
-- **Peer review**: Have colleagues review your annotations
-- **Source verification**: Cross-reference entities with reliable sources
-- **Documentation**: Keep notes on difficult annotation decisions
-
-### Research Tips
-
-- **Start small**: Begin with shorter texts to learn the system
-- **Iterate**: Refine annotations based on new insights
-- **Collaborate**: Work with team members on complex texts
-- **Export regularly**: Save your work in multiple formats
 
 ## Glossary
 
