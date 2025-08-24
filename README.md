@@ -8,14 +8,13 @@ This application helps researchers, particularly in digital humanities, to ident
 
 See the application in action! Watch our demo GIF showcasing the key features and user interface:
 
-<img src="demo/marsiya-ner-dashboard-demo.gif" alt="Marsiya NER Dashboard Demo" width="100%">
+<video width="100%" controls>
+  <source src="demo/demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-**Alternative Viewing Options:**
 
-- [Download GIF](demo/marsiya-ner-dashboard-demo.gif) - Right-click and "Save as" for offline viewing
-- [View on GitHub](https://github.com/junaidiiith/marsiya-llm-ner/blob/main/demo/marsiya-ner-dashboard-demo.gif) - Watch directly on GitHub
-
-**Video/GIF Details:**
+**Video Details:**
 
 - **Format**: GIF
 - **Size**: Optimized for quick preview
