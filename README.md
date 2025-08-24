@@ -6,26 +6,24 @@ This application helps researchers, particularly in digital humanities, to ident
 
 ## Demo Video
 
-See the application in action! Watch our demo video showcasing the key features and user interface:
+See the application in action! Watch our demo GIF showcasing the key features and user interface:
 
-<video width="100%" controls>
-  <source src="demo/marsiya-ner-dashboard-demo.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+<img src="demo/marsiya-ner-dashboard-demo.gif" alt="Marsiya NER Dashboard Demo" width="100%">
 
 **Alternative Viewing Options:**
 
-- [Download Video](demo/marsiya-ner-dashboard-demo.mov) - Right-click and "Save as" for offline viewing
-- [View on GitHub](https://github.com/junaidiiith/marsiya-llm-ner/blob/main/demo/marsiya-ner-dashboard-demo.mov) - Watch directly on GitHub
+- [Download GIF](demo/marsiya-ner-dashboard-demo.gif) - Right-click and "Save as" for offline viewing
+- [View on GitHub](https://github.com/junaidiiith/marsiya-llm-ner/blob/main/demo/marsiya-ner-dashboard-demo.gif) - Watch directly on GitHub
 
-**Video Details:**
+**Video/GIF Details:**
 
-- **Format**: MOV (QuickTime)
-- **Size**: ~70MB
-- **Duration**: Comprehensive walkthrough of all major features
-- **Quality**: High-definition screen recording
+- **Format**: GIF
+- **Size**: Optimized for quick preview
+- **Duration**: Shortened walkthrough of major features
+- **Quality**: Lightweight, web-friendly format
 
-_Note: The demo video shows the complete user experience including document upload, entity recognition, verification workflow, and project management features._
+_Note: The GIF demo shows the core user experience including document upload, entity recognition, verification workflow, and project management features._
+
 
 ## Documentation Structure
 
