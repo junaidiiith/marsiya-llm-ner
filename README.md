@@ -6,12 +6,9 @@ This application helps researchers, particularly in digital humanities, to ident
 
 ## Demo Video
 
-See the application in action! Watch our demo GIF showcasing the key features and user interface:
+See the application in action! Watch our demo showcasing the key features and user interface:
 
-<video width="100%" controls>
-  <source src="demo/demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[▶️ Watch the demo video](demo/demo-video.mp4)
 
 
 **Video Details:**
