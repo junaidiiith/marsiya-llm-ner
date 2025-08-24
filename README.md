@@ -8,7 +8,18 @@ This application helps researchers, particularly in digital humanities, to ident
 
 See the application in action! Watch our demo showcasing the key features and user interface:
 
-[▶️ Watch the demo video](demo/demo-video.mp4)
+## Demo Video
+
+See the application in action! Watch our demo GIF showcasing the key features and user interface:
+
+![Marsiya NER Dashboard Demo](demo/marsiya-ner-dashboard-demo.gif)
+
+**Alternative Viewing Options:**
+
+- [Download GIF](demo/demo-video.gif) - Right-click and "Save as" for offline viewing
+- [Download MP4 Video](demo/demo-video.mp4) - Full high-definition version
+- [View on GitHub](https://github.com/junaidiiith/marsiya-llm-ner/blob/main/demo/demo-video.mp4) - Play directly on GitHub
+
 
 
 **Video Details:**
