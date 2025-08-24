@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Urdu NER icon">
+  <defs>
+    <style>
+      .stroke { stroke:#2f3a3f; stroke-width:28; stroke-linecap:round; stroke-linejoin:round; fill:none; }
+      .line { stroke:#2f3a3f; stroke-width:28; stroke-linecap:round; }
+      .fill-stroke { fill:#4FA7A6; stroke:#2f3a3f; stroke-width:28; stroke-linecap:round; stroke-linejoin:round; }
+      .skin { fill:#F2C7A5; stroke:#2f3a3f; stroke-width:28; stroke-linecap:round; stroke-linejoin:round; }
+      .hair { fill:#2f3a3f; }
+      .text { fill:#2f3a3f; font-family: Inter, 'Segoe UI', Arial, sans-serif; font-weight:800; }
+    </style>
+  </defs>
+
+  <!-- Document -->
+  <rect x="120" y="160" width="560" height="540" rx="50" class="stroke"/>
+  <line x1="210" y1="260" x2="610" y2="260" class="line"/>
+  <line x1="210" y1="330" x2="550" y2="330" class="line"/>
+  <line x1="210" y1="400" x2="510" y2="400" class="line"/>
+
+  <!-- Person bust -->
+  <circle cx="340" cy="520" r="90" class="skin"/>
+  <rect x="310" y="595" width="60" height="44" rx="12" class="skin"/>
+  <!-- hair -->
+  <path d="M260,495
+           C275,430 405,430 420,495
+           C400,470 360,455 340,455
+           C320,455 285,470 260,495Z" class="hair"/>
+  <!-- shoulders/body -->
+  <path d="M210,740
+           C270,675 410,675 470,740
+           v120 H210 Z" class="fill-stroke"/>
+
+  <!-- Magnifying glass -->
+  <circle cx="720" cy="480" r="180" class="stroke"/>
+  <rect x="820" y="640" width="220" height="70" rx="35" transform="rotate(40 930 675)" fill="#2f3a3f"/>
+
+  <!-- NER text inside lens -->
+  <text x="720" y="505" text-anchor="middle" font-size="140" class="text">NER</text>
+</svg>

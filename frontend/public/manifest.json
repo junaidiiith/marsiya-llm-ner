@@ -1,0 +1,36 @@
+{
+  "short_name": "Marsiya NER",
+  "name": "Marsiya LLM NER - Advanced Named Entity Recognition",
+  "description": "Advanced Named Entity Recognition with Large Language Models",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": [
+    "productivity",
+    "education",
+    "utilities"
+  ],
+  "lang": "en"
+}
