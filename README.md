@@ -8,7 +8,7 @@ This application helps researchers, particularly in digital humanities, to ident
 
 See the application in action! Watch our demo video showcasing the key features and user interface:
 
-https://github.com/your-username/marsiya-llm-ner/blob/main/demo/marsiya-ner-dashboard-demo.mov
+https://github.com/junaidiiith/marsiya-llm-ner/blob/main/demo/marsiya-ner-dashboard-demo.mov
 
 **Video Details:**
 
